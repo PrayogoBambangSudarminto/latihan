@@ -1,4 +1,4 @@
-* [Judul](./odin-adventure.wiki/odin-adventure.wiki/Permainan.md)
+* [Judul](./odin-adventure.wiki/Permainan.md)
 * [Design](./odin-adventure.wiki/Design.md)
 * [Merancang Gambaran umum](./odin-adventure.wiki/Gambaran-umum-permainan.md)
 * [Merancang Gameplay](./odin-adventure.wiki/Merancang-Game-Play.md)
